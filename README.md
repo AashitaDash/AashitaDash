@@ -1,12 +1,32 @@
-- 👋 Hi, I’m @AashitaDash
-- 👀 I’m interested in HTML,CSS,JavaScript,C,Java,Python,SQL
-- 🌱 I’m currently learning Java
-- 📫 How to reach me Email ID: dashaashita@gmail.com,Instagram: aashiita._
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love solving puzzles and exploring new technologies!
+# Hi there 👋, I'm Aashita Dash
 
+💻 Computer Science Engineering Student
 
-<!---
-AashitaDash/AashitaDash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Currently exploring:
+- Data Structures & Algorithms
+- Full Stack Development
+- Artificial Intelligence & Machine Learning
+
+🚀 Projects:
+- AI Crop Yield Prediction
+- Haviaa-Maid Services App
+- Trackora
+- Hybrid Book Recommendation System
+
+🏆 Hackathons:
+- Adobe India Hackathon
+- DebugOn (IIIT Delhi)
+- Product Space
+
+📚 Currently Learning:
+- Advanced DSA
+- React.js
+- Generative AI Applications
+
+📫 Connect with me:
+- LinkedIn: www.linkedin.com/in/aashita-dash-b4153928a
+- Portfolio: https://aashitadash.my.canva.site/hi-i-m-aashita-dash
+- Email: dashaashita@gmail.com
+
+⚡ Fun Fact:
+I love solving coding problems, participating in hackathons, and building AI-powered applications.
